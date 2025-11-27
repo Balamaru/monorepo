@@ -93,11 +93,22 @@ kubectl apply -f manifest/<file-name>
 ```bash
 curl http://<service-cluster-ip>
 ```
+<p align="center"> <img src="images/curl-result.png"> </p>
 Jika menggunakan Ingress:
 ```bash
 curl <domain-name>
 curl <domain-name>
 ```
+go application 
+
+<p align="center"> <img src="images/go-ingress.png"> </p>
+
+nodejs application
+<p align="center"> <img src="images/nodejs-ingress.png"> </p>
+
+
+**Tambahan setelah melakukan update, dan ci/cd sudah sukses berjalan. Saat di curl ulang**
+<p align="center"> <img src="images/second-curl.png"> </p>
 ## 6️⃣ Bonus: Monitoring & Logging (Optional)
 
 Jika implementasi monitoring ingin ditambahkan, rekomendasi:
