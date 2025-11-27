@@ -109,6 +109,7 @@ nodejs application
 
 **Tambahan setelah melakukan update, dan ci/cd sudah sukses berjalan. Saat di curl ulang**
 <p align="center"> <img src="images/second-curl.png"> </p>
+
 ## 6️⃣ Bonus: Monitoring & Logging (Optional)
 
 Jika implementasi monitoring ingin ditambahkan, rekomendasi:
