@@ -96,6 +96,7 @@ curl http://<service-cluster-ip>
 ```
 <p align="center"> <img src="images/curl-result.png"> </p>
 Jika menggunakan Ingress:
+
 ```bash
 curl <domain-name>
 curl <domain-name>
