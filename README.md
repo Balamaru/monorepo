@@ -56,6 +56,7 @@ Pada stage ini:
 - Manifest Kubernetes ditransfer via scp
 - Tag image diganti dinamis via sed
 - kubectl apply -f /tmp/ dijalankan di remote host
+
 Contoh deployment manifest:
 ```yaml
 containers:
