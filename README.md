@@ -1,5 +1,5 @@
 # 🚀 Monorepo Backend Services — CI/CD + Kubernetes Deployment
-Repository ini merupakan penyelesaian dari Home Assignment, yang terdiri dari 2 service backend dalam satu monorepo serta implementasi pipeline CI/CD lengkap hingga deployment ke Kubernetes.
+Repository ini menjelaskan tutorial CI/CD strategy dengan menggunakan Gitlab CI dan CD strategy menjalankan command **kubectl apply** dari kubernetes control-plane, yang terdiri dari 2 service backend dalam satu monorepo serta implementasi pipeline CI/CD lengkap hingga deployment ke Kubernetes.
 
 # 📦 Struktur Repository
 ```sh
